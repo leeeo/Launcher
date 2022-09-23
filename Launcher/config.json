@@ -1,0 +1,24 @@
+{
+    "site": [
+        {
+            "name": "Azure",
+            "link": "https://portal.azure.com/",
+            "image": ""
+        },
+        {
+            "name": "Google Mail",
+            "link": "https://mail.google.com/",
+            "image": ""
+        },
+        {
+            "name": "Google Drive",
+            "link": "https://drive.google.com/",
+            "image": ""
+        },
+        {
+            "name": "Google Calendar",
+            "link": "https://calendar.google.com/",
+            "image": ""
+        }
+    ]
+}
